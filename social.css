@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-decoration: 2px solid red underline;
+    margin-bottom: 100px;
+
+}
+.flex-cont{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+}
+.flex-items{
+    margin: 25px;
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 4px solid ;
+}
